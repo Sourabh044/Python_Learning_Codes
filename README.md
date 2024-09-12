@@ -1,2 +1,2 @@
 # Python_Learning_Codes
-Python Workshop learning codes of basic python
+Python Learning Cheatsheets and Code Problems.
